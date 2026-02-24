@@ -1,18 +1,67 @@
-# 💫 About Me:
- I’m currently working as a .NET Developer with 3 years of experience  <br>📊 I’m exploring Data Analysis & Business Intelligence roles  <br>🤝 I’m looking to collaborate on web apps & data-driven projects  <br>🌱 I’m currently learning Python, Power BI & advanced SQL  <br>💬 Ask me about ASP.NET, Web API, SQL Server, and Data Analytics  <br>⚡ Fun fact: I enjoy turning raw data into meaningful insights!
+# 👋 Hi, I'm Abhishek Pal
 
+## 💫 About Me
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Abhishek) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/dev-abhishek18) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abhishek Pal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekdesuza18@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dev-abhishek18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dev-abhishek18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abhishek18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+👨‍💻 .NET Developer with 3+ years of experience building scalable web applications  
+📊 Transitioning into Data Analysis & Business Intelligence roles  
+📈 Strong in SQL, Python, Power BI & Data Visualization  
+🔍 Passionate about transforming raw data into actionable business insights  
+🤝 Open to collaboration on web & data-driven projects  
+🌱 Currently learning Advanced SQL & Business Analytics  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dev-abhishek18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-pal-8441171a4)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-abhishek18)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekdesuza18@gmail.com)
+[![Resume](https://img.shields.io/badge/Download_Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](PASTE_YOUR_RESUME_LINK_HERE)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 Luxury Housing Sales Analysis  
+🔹 Python | Pandas | Data Cleaning | Visualization  
+🔹 Analyzed Bengaluru housing data to uncover pricing trends & market insights  
+🔗 https://github.com/dev-abhishek18/Luxury_Housing_Sales_Bengaluru
+
+---
+
+### 📊 Content Monetization Modeler  
+🔹 Machine Learning | Regression | Data Modeling  
+🔹 Built predictive models to optimize digital content revenue  
+🔗 https://github.com/dev-abhishek18/Content_Monetization_Modeler
+
+---
+
+### 💳 PhonePe Transaction Insights  
+🔹 SQL | Power BI | Data Visualization  
+🔹 Analyzed digital payment transaction trends & user behavior patterns  
+🔗 https://github.com/dev-abhishek18/Phone_pay_project
+
+---
+
+## 💻 Tech Stack
+
+.NET | C# | ASP.NET MVC | Web API | SQL Server | Python | Power BI  
+Pandas | NumPy | Scikit-Learn | Bootstrap | jQuery | Git | AWS  
+
+---
+
+## 💡 What I Bring
+
+✔ 3 Years Real-World Development Experience  
+✔ Strong Backend + Database Expertise  
+✔ Business-Oriented Data Analysis Approach  
+✔ Reporting Experience (Crystal Reports & Power BI)  
+✔ End-to-End Project Development Capability  
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=dev-abhishek18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dev-abhishek18&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abhishek18&theme=dark&hide_border=false&layout=compact)
