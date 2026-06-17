@@ -1,13 +1,24 @@
 # 👋 Hi, I'm Abhishek Pal
 
-## 💫 About Me
+# 💫 About Me
 
-👨‍💻 .NET Developer with 3+ years of experience building scalable web applications  
-📊 Transitioning into Data Analysis & Business Intelligence roles  
-📈 Strong in SQL, Python, Power BI & Data Visualization  
-🔍 Passionate about transforming raw data into actionable business insights  
-🤝 Open to collaboration on web & data-driven projects  
-🌱 Currently learning Advanced SQL & Business Analytics  
+👋 Hi, I'm Abhishek Pal
+
+💻 Software Developer & Data Analyst with 3+ years of experience in building and maintaining enterprise web applications and data-driven solutions.
+
+🔹 Expertise in ASP.NET, C#, SQL Server, ADO.NET, MVC, JavaScript, jQuery, HTML, CSS, and Bootstrap.
+
+📊 Skilled in Data Analysis, SQL Query Optimization, Python, Power BI, Excel, ETL Processes, and Interactive Dashboard Development.
+
+📈 Experienced in transforming complex datasets into actionable insights through reporting, visualization, and business intelligence solutions.
+
+🗄️ Strong knowledge of Database Design, Stored Procedures, Views, Indexing, Query Performance Tuning, and Data Modeling.
+
+🚀 Currently expanding expertise in Advanced SQL, Business Analytics, Data Warehousing, and Data Visualization.
+
+🤝 Open to opportunities and collaborations in .NET Development, Data Analysis, Business Intelligence, and Data Engineering.
+
+📫 Always eager to learn new technologies and solve real-world business problems through data and software development.
 
 ---
 
