@@ -21,16 +21,22 @@
 📫 Always eager to learn new technologies and solve real-world business problems through software development and data-driven decision making.
 
 ---
-
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abhishek-pal-8441171a4)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/dev-abhishek18)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:abhishekdesuza18@gmail.com)
-
-[![Resume](https://img.shields.io/badge/Download_Resume-000000?style=for-the-badge\&logo=readthedocs\&logoColor=white)](PASTE_YOUR_RESUME_LINK_HERE)
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-pal-8441171a4">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/dev-abhishek18">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:abhishekdesuza18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="PASTE_YOUR_RESUME_LINK_HERE">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+</p>
 
 ---
 
