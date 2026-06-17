@@ -42,9 +42,9 @@
 📍 Noida, Uttar Pradesh
 📅 Aug 2022 – Present
 
-#### 🔹 .NET Developer (Aug 2022 – Aug 2025)
+#### 🔹 .NET Developer & SQL Developer (Aug 2022 – Aug 2025)
 
-* Developed and maintained School ERP applications using ASP.NET MVC, C#, ADO.NET, SQL Server, JavaScript and jQuery.
+* Developed and maintained School ERP applications using ASP.NET , C#, ADO.NET, SQL Server, JavaScript and jQuery.
 * Designed and developed modules for Student Management, Fee Management, Attendance, Examination and Reporting.
 * Created and optimized Stored Procedures, Views, Functions and SQL Queries.
 * Maintained and supported databases and web applications for 100+ schools.
