@@ -69,6 +69,14 @@
 
 # 🚀 Featured Projects
 
+### 🗂️ Bihar Government Survey Data Analytics & ETL Processing
+
+🔹 SQL Server | ETL | Stored Procedures | Excel | VBA/Macros
+
+🔹 Processed and analyzed large-scale government survey data collected across districts, blocks, panchayats, and villages.
+
+🔹 Automated data cleaning, validation, duplicate detection, and database integration using SQL Server, ETL workflows, and Excel VBA to improve data quality and reporting accuracy.
+
 ### 🏠 Luxury Housing Sales Analysis
 
 🔹 Python | Pandas | SQL | Power BI
