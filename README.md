@@ -2,7 +2,7 @@
 
 # 💫 About Me
 
-💻 .NET Developer, SQL Developer & Data Analyst with 3.6+ years of experience in enterprise web application development, database management, and business intelligence solutions.
+💻 .NET Developer, SQL Developer & Data Analyst with 4 years of experience in enterprise web application development, database management, and business intelligence solutions.
 
 🔹 Expertise in ASP.NET MVC, ASP.NET Web API, C#, ADO.NET, SQL Server, JavaScript, jQuery, HTML, CSS, Bootstrap, and ERP Application Development.
 
