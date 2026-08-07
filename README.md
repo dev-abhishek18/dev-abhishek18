@@ -155,7 +155,7 @@ Git | GitHub | VS Code | Visual Studio | SSMS | Jupyter Notebook
 
 # 💡 What I Bring
 
-✔ 3.6+ Years Professional Experience
+✔ 4 Years Professional Experience
 
 ✔ Strong .NET Development Experience
 
