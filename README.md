@@ -32,7 +32,7 @@ Currently, I am focused on growing my career as a **Data Analyst / BI profession
 
 ### 💻 Software Development
 
-`.NET` `ASP.NET MVC` `ASP.NET Web API` `C#` `ADO.NET` `Entity Framework` `JavaScript` `jQuery`
+`.NET`  `ASP.NET Web FORM` `C#` `ADO.NET` `Entity Framework` `jQuery`
 
 ### 📑 Reporting & Tools
 
