@@ -1,27 +1,197 @@
 # 👋 Hi, I'm Abhishek Pal
 
-# 💫 About Me
+> **Data Analyst | SQL | Python | Power BI | Excel**
 
-💻 .NET Developer, SQL Developer & Data Analyst with 4 years of experience in enterprise web application development, database management, and business intelligence solutions.
+I work at the intersection of **data analytics, SQL/database engineering and business intelligence**, with professional experience building enterprise applications, working with SQL Server and turning business data into reports, dashboards and actionable insights.
 
-🔹 Expertise in ASP.NET MVC, ASP.NET Web API, C#, ADO.NET, SQL Server, JavaScript, jQuery, HTML, CSS, Bootstrap, and ERP Application Development.
-
-🔹 Experienced in developing and maintaining School ERP Systems, managing large-scale databases, and delivering scalable web applications.
-
-📊 Skilled in SQL Query Optimization, Stored Procedures, ETL Processes, Power BI, Python, Excel, Dashboard Development, and Data Analysis.
-
-📈 Experienced in transforming complex datasets into actionable insights through reporting, visualization, and business intelligence solutions.
-
-🗄️ Strong knowledge of Database Design, Stored Procedures, Views, Indexing, Query Performance Tuning, Data Modeling, and Reporting Solutions.
-
-🚀 Currently expanding expertise in Data Engineering, Advanced SQL, Business Analytics, Data Warehousing, and Cloud Technologies.
-
-🤝 Open to opportunities and collaborations in .NET Development, SQL Development, Data Analysis, Business Intelligence, and Data Engineering.
-
-📫 Always eager to learn new technologies and solve real-world business problems through software development and data-driven decision making.
+Currently, I am focused on growing my career as a **Data Analyst / BI professional**, while bringing my strong SQL and database background with me.
 
 ---
-## 🌐 Connect With Me
+
+## 🎯 What I Do
+
+- Analyze and transform business data using **SQL and Python**
+- Build interactive **Power BI dashboards and KPI reports**
+- Perform data cleaning, validation and exploratory analysis
+- Write and optimize **complex SQL queries and stored procedures**
+- Work with ETL workflows and structured databases
+- Translate business questions into measurable analytical outputs
+- Combine software-development experience with data-driven problem solving
+
+---
+
+## 🧰 Core Skills
+
+### 📊 Data Analytics
+
+`SQL` `Python` `Pandas` `NumPy` `Power BI` `Excel` `ETL` `EDA` `KPI Reporting` `Data Visualization`
+
+### 🗄️ SQL & Database
+
+`SQL Server` `Stored Procedures` `Views` `Functions` `Triggers` `Joins` `CTEs` `Window Functions` `Indexing` `Query Optimization` `Execution Plans` `Data Modeling`
+
+### 💻 Software Development
+
+`.NET` `ASP.NET MVC` `ASP.NET Web API` `C#` `ADO.NET` `Entity Framework` `JavaScript` `jQuery`
+
+### 📑 Reporting & Tools
+
+`Power BI` `Crystal Reports` `SSMS` `Jupyter Notebook` `VS Code` `Visual Studio` `Git` `GitHub`
+
+---
+
+## 💼 Professional Experience
+
+### SQL Developer & Data Analyst
+**Srivastava Infotech Software Solutions Pvt. Ltd.** — Noida, Uttar Pradesh
+
+**Aug 2022 – Present**
+
+#### .NET Developer & SQL Developer — Aug 2022 to Aug 2025
+
+- Developed and maintained enterprise **School ERP applications** using ASP.NET MVC, C#, ADO.NET and SQL Server.
+- Built modules covering student management, fees, attendance, examinations and reporting.
+- Developed and optimized stored procedures, views, functions and SQL queries.
+- Supported databases and applications used across **100+ schools**.
+- Worked on production issues, bug fixing, performance optimization and application enhancements.
+- Created reports using SQL Server and Crystal Reports.
+
+#### Data Analyst — Sep 2025 to Present
+
+- Develop interactive **Power BI dashboards and reports**.
+- Perform data cleaning, validation and transformation using **SQL and Python**.
+- Build KPI reports and analytical outputs for business decision-making.
+- Work with SQL Server, Excel and ETL processes for reporting workflows.
+- Apply SQL optimization techniques to improve reporting and query performance.
+
+---
+
+# 🚀 Featured Data Projects
+
+## 🏠 Luxury Housing Sales Analysis — Bengaluru
+
+**Python | Pandas | SQL Server | Power BI**
+
+End-to-end real-estate analytics project covering **100,000+ records**. The workflow includes data cleaning, EDA, SQL Server integration and business-focused dashboard analysis.
+
+Key areas:
+
+- Market and locality performance
+- Builder benchmarking
+- Pricing and configuration analysis
+- Buyer and sales-channel analysis
+- Quarterly trends
+- Property amenity/connectivity analysis
+
+urlView Project → Luxury Housing Sales Analysishttps://github.com/dev-abhishek18/Luxury_Housing_Sales_Bengaluru
+
+---
+
+## 💳 PhonePe Transaction Insights Dashboard
+
+**Python | Pandas | SQL Server | Streamlit | Plotly | GeoJSON**
+
+Interactive analysis of PhonePe Pulse transaction data across India.
+
+The project includes:
+
+- Year and quarter filtering
+- State-level transaction analysis
+- India choropleth map
+- Transaction KPIs
+- Yearly trend analysis
+- Category-wise analysis
+- Exploratory data analysis
+
+urlView Project → PhonePe Transaction Insightshttps://github.com/dev-abhishek18/Phone_pay_project
+
+---
+
+## 📺 YouTube Monetization Modeler
+
+**Python | Pandas | NumPy | Machine Learning | Streamlit**
+
+A predictive analytics project that estimates YouTube advertising revenue from video-performance and audience attributes.
+
+The project covers:
+
+- EDA and preprocessing
+- Feature engineering
+- Regression modelling
+- Model evaluation
+- Categorical encoding
+- Revenue prediction
+- Streamlit deployment
+
+urlView Project → YouTube Monetization Modelerhttps://github.com/dev-abhishek18/Content_Monetization_Modeler
+
+---
+
+## 🧠 Comment Toxicity Detection
+
+**Python | NLP | TensorFlow/Keras | LSTM | Streamlit**
+
+Multi-label NLP application that classifies comments across six toxicity categories.
+
+Demonstrates:
+
+- Text preprocessing
+- Tokenization and sequence padding
+- Embedding + LSTM modelling
+- Multi-label classification
+- Model inference through Streamlit
+
+urlView Project → Comment Toxicity Detectionhttps://github.com/dev-abhishek18/CommentToxicity
+
+---
+
+## 🏫 School ERP Management System
+
+**ASP.NET MVC | C# | SQL Server | jQuery | Crystal Reports**
+
+Enterprise ERP development experience covering student management, fee management, attendance, examinations and reporting.
+
+This experience strengthened my understanding of **business workflows, relational databases, reporting requirements and production application support**.
+
+---
+
+# 📌 My Data Analyst Focus
+
+I am particularly interested in roles involving:
+
+- Data Analyst
+- Business Intelligence Analyst
+- SQL Developer / SQL-focused Analyst
+- BI Developer
+- Reporting Analyst
+
+My strongest combination is **advanced SQL + database knowledge + Power BI + Python**, supported by real-world software-development experience.
+
+---
+
+# 📈 Analytics Workflow I Follow
+
+```text
+Business Question
+       ↓
+Data Collection
+       ↓
+Data Validation & Cleaning
+       ↓
+SQL / Python Analysis
+       ↓
+KPI & Metric Definition
+       ↓
+Visualization / Dashboard
+       ↓
+Business Insights
+       ↓
+Recommendation
+```
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-pal-8441171a4">
@@ -30,169 +200,22 @@
   <a href="https://github.com/dev-abhishek18">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:abhishekdesuza18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="PASTE_YOUR_RESUME_LINK_HERE">
-    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-# 💼 Professional Experience
+# ⭐ GitHub Stats
 
-### SQL Developer & Data Analyst
+![](https://github-readme-stats.vercel.app/api?username=dev-abhishek18&show_icons=true&theme=dark)
 
-**Srivastava Infotech Software Solutions Pvt. Ltd.**
-📍 Noida, Uttar Pradesh
-📅 Aug 2022 – Present
+![](https://github-readme-streak-stats.herokuapp.com/?user=dev-abhishek18&theme=dark)
 
-#### 🔹 .NET Developer & SQL Developer (Aug 2022 – Aug 2025)
-
-* Developed and maintained School ERP applications using ASP.NET , C#, ADO.NET, SQL Server, JavaScript and jQuery.
-* Designed and developed modules for Student Management, Fee Management, Attendance, Examination and Reporting.
-* Created and optimized Stored Procedures, Views, Functions and SQL Queries.
-* Maintained and supported databases and web applications for 100+ schools.
-* Worked on bug fixing, performance optimization and application enhancements.
-* Generated reports using Crystal Reports and SQL Server.
-
-#### 🔹 Data Analyst (Sep 2025 – Present)
-
-* Developed interactive Power BI dashboards and reports.
-* Performed Data Cleaning, Validation and Transformation using SQL and Python.
-* Created KPI reports and business insights for decision making.
-* Automated reporting workflows using SQL Server, Excel and ETL processes.
-* Improved reporting performance through advanced SQL optimization.
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abhishek18&layout=compact&theme=dark)
 
 ---
 
-# 🚀 Featured Projects
+## 📫 Open to Opportunities
 
-### 🗂️ Bihar Government Survey Data Analytics & ETL Processing
+I am currently open to opportunities where I can use **SQL, Python, Power BI, Excel and business analytics** to solve real-world problems and contribute to data-driven decision making.
 
-🔹 SQL Server | ETL | Stored Procedures | Excel | VBA/Macros
-
-🔹 Processed and analyzed large-scale government survey data collected across districts, blocks, panchayats, and villages.
-
-🔹 Automated data cleaning, validation, duplicate detection, and database integration using SQL Server, ETL workflows, and Excel VBA to improve data quality and reporting accuracy.
-
-### 🏠 Luxury Housing Sales Analysis
-
-🔹 Python | Pandas | SQL | Power BI
-
-🔹 Analyzed 100,000+ Bengaluru luxury housing records to uncover pricing trends and market insights.
-
-🔗 https://github.com/dev-abhishek18/Luxury_Housing_Sales_Bengaluru
-
----
-
-### 💳 PhonePe Transaction Insights
-
-🔹 SQL | Power BI | Data Visualization
-
-🔹 Analyzed digital payment transaction trends and user behavior patterns across India.
-
-🔗 https://github.com/dev-abhishek18/Phone_pay_project
-
----
-
-### 📈 Content Monetization Modeler
-
-🔹 Machine Learning | Regression | Data Modeling
-
-🔹 Built predictive models to optimize digital content revenue and engagement.
-
-🔗 https://github.com/dev-abhishek18/Content_Monetization_Modeler
-
----
-
-### 🏫 School ERP Management System
-
-🔹 ASP.NET MVC | C# | SQL Server | jQuery
-
-🔹 Developed ERP software for Student Management, Fee Management, Attendance, Examination and Reporting.
-
-🔹 Supported and maintained databases for multiple schools.
-
----
-
-### 🌐 Student Management System
-
-🔹 ASP.NET MVC | Entity Framework | SQL Server
-
-🔹 CRUD Application with Authentication, Search, Reporting and Role Management.
-
----
-
-# 💻 Tech Stack
-
-### Backend Development
-
-.NET Framework | ASP.NET MVC | ASP.NET Web API | C# | ADO.NET | Entity Framework
-
-### Database
-
-SQL Server | MySQL | Stored Procedures | Views | Triggers | Query Optimization
-
-### Data Analytics
-
-Python | Pandas | NumPy | Scikit-Learn | Power BI | Excel | ETL
-
-### Frontend
-
-HTML | CSS | Bootstrap | JavaScript | jQuery
-
-### Reporting
-
-Crystal Reports | Power BI Dashboards
-
-### Tools
-
-Git | GitHub | VS Code | Visual Studio | SSMS | Jupyter Notebook
-
----
-
-# 💡 What I Bring
-
-✔ 4 Years Professional Experience
-
-✔ Strong .NET Development Experience
-
-✔ Advanced SQL & Database Expertise
-
-✔ ERP Application Development Experience
-
-✔ Business-Oriented Data Analysis Approach
-
-✔ Reporting Experience (Crystal Reports & Power BI)
-
-✔ Dashboard Development & KPI Reporting
-
-✔ End-to-End Project Development Capability
-
-✔ Strong Problem Solving & Analytical Skills
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=dev-abhishek18\&show_icons=true\&theme=dark)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=dev-abhishek18\&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abhishek18\&layout=compact\&theme=dark)
-
----
-
-### 📫 Let's Connect
-
-💼 Open to opportunities in:
-
-* .NET Developer
-* SQL Developer
-* Data Analyst
-* Business Intelligence Developer
-* Data Engineer
-
-⭐ If you like my work, feel free to connect and collaborate.
+⭐ Feel free to explore my projects and connect with me.
